@@ -1,2 +1,2 @@
 # Matplotlib
-Use Matplotlib from pandas to display results in graphical manner
+***Use Matplotlib from Pandas to display results in graphical manner. This repository includes bar charts, pie charts, and line graphs.*** 
